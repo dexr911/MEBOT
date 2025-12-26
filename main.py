@@ -6,7 +6,7 @@ import time
 import names
 
 # تأكد من إضافة BOT_TOKEN في Railway Variables
-API_TOKEN = os.getenv('BOT_TOKEN8488920682:AAGhoJ-R5q5Xd4nVULrdmSxM2YfSch6j2RUPI_TOKEN)
+API_TOKEN = os.getenv('8488920682:AAGhoJ-R5q5Xd4nVULrdmSxM2YfSch6j2RU')
 
 def get_headers():
     session = requests.Session()
