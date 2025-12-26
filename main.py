@@ -77,7 +77,7 @@ async def handle_code(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # الدالة الرئيسية
 def main():
     # توكن البوت الخاص بك
-    TOKEN = "8488920682:AAEp45yVtWWuVWEIj8eV2P07uwDkXWrNHwI"
+    TOKEN = "8488920682:AAGhoJ-R5q5Xd4nVULrdmSxM2YfSch6j2RU"
     
     # إنشاء التطبيق
     application = Application.builder().token(TOKEN).build()
